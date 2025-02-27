@@ -1,0 +1,273 @@
+﻿@page "/"
+@using HackItOut.UI.Request;
+
+
+<PageTitle>HackItOut</PageTitle>
+
+<div class="site_wrap">
+    <div class="eco--header--wraper eco--header--1">
+        <div class="eco--header--top">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-2 col-xs-4">
+                        <div class="eco--logo">
+                            <article id="part1"></article>
+                            <a href="index.html">HackItOut</a>
+                        </div>
+                    </div>
+                    <div class="col-md-10 col-xs-8">
+                        <div class="eco--header--btn text-right">
+                            <a href="https://www.kstu.ru/1leveltest.jsp?idparent=1180" class="eco--btn">Сайт Организатора</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div> <!-- end .eco-header-top -->
+        <div class="eco--header--bottom">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-7 eco--menu--col col-sm-6 clearfix">
+                        <nav class="eco--main--menu">
+                            <ul>
+                                <li><a href="#part1">Главная</a></li>
+                                <li><a href="#part2">Описание</a></li>
+                                <li><a href="#part3">Расписание</a></li>
+                                <li><a href="#part6">Регистрация</a></li>
+                            </ul>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="eco--home--area--1">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 col-md-7">
+                    <div class="eco--home--content--1">
+                        <div class="eco--sec--title">
+                            <span>КТК ФГБОУ ВО "КНИТУ"</span>
+                            <h1>Хакатон КТК: <span>HackItOut</span></h1>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="eco--home--image--1">
+                <img src="img/item-01.jpg" alt="">
+            </div>
+        </div>
+    </div>
+    <div>
+        <div class="eco--faq--area--1 eco--pd--100">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-10 col-md-offset-1">
+                        <div class="eco--sec--title eco--small text-center">
+                            <article id="part2"></article>
+                            <span>HackItOut КТК</span>
+                            <h1>Хакатон: Что это?</h1>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="eco--faq--1 eco--mt100 eco--pr50">
+                            <div class="eco--single--faq">
+                                <h4>Хакатон — соревнование для ИТ-специалистов, в котором несколько разработчиков или команд выполняют поставленную задачу на время. Побеждает тот, кто сделает это быстрее или найдёт самое оптимальное решение.</h4>
+                                <p>Чаще всего на хакатоне нужно создать работающий прототип программы или сервиса, взломать систему безопасности, оптимизировать какой-то процесс, предложить решение социальной, экологической или экономической проблемы. Например, разработать новую схему движения общественного транспорта или предложить самый выгодный способ вывоза мусора.</p>
+                            </div>
+                            <div class="eco--single--faq">
+                                <h4>В рамках Хакатона "HackItOut" необходимо разработать веб-сайт, решающий проблему о взаимодейстии Администрации колледжа со студентами и их родителями. </h4>
+                            </div>
+                            <a class="eco--more--faq" href="https://cloud.mail.ru/public/Nxo7/YYET8S9jC">Положение о мероприятии</a>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="eco-faq-img eco--mt100">
+                            <img src="img/item-06.jpg" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="eco--specification--1 eco--pd--100">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-8 col-md-offset-2">
+                            <div class="eco--sec--title eco--small text-center">
+                                <article id="part3"></article>
+                                <span>HackItOut КТК</span>
+                                <h1>Расписание</h1>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-10 col-md-offset-1">
+                            <div class="eco--inner">
+                                <ul class="eco--specification--list--1 eco--mt100">
+                                    <li>
+                                        <div class="eco--title">25.12/9:30-12</div>
+                                        <div class="eco--desc">Сбор конкурсантов, знакомство с рабочими местами, открытие мероприятия</div>
+                                    </li>
+                                    <li>
+                                        <div class="eco--title">25.12/12-12:30</div>
+                                        <div class="eco--desc">Перерыв на обед</div>
+                                    </li>
+                                    <li>
+                                        <div class="eco--title">25.12/12:30-16:00</div>
+                                        <div class="eco--desc">Знакомство с заданием, выполнение задачи согласно ТЗ</div>
+                                    </li>
+                                    <li>
+                                        <div class="eco--title">26.12/10:00-12:00</div>
+                                        <div class="eco--desc">Прибытие конкурсантов на площадку, выполнение задачи согласно ТЗ</div>
+                                    </li>
+                                    <li>
+                                        <div class="eco--title">26.12/12:00-12:30</div>
+                                        <div class="eco--desc">Обеденный перерыв</div>
+                                    </li>
+                                    <li>
+                                        <div class="eco--title">26.12/12:30-14:00</div>
+                                        <div class="eco--desc">Выполение задач согласно ТЗ</div>
+                                    </li>
+                                    <li>
+                                        <div class="eco--title">26.12/14:00-16:00</div>
+                                        <div class="eco--desc">Проверка работ жюри, подведение итогов, награждение.</div>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div><div class="eco--newsletter--area--1 c1-bg eco--pd--100">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-10 col-md-offset-1">
+                        <div class="eco--sec--title--white eco--small text-center">
+                            <h1>Регистрация на мероприятие</h1>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-8 col-md-offset-2 eco--mt70">
+
+                        @* Форма *@
+                        <EditForm Model="request"
+                                  OnValidSubmit="PlayerRegisterAsync">
+
+                            <DataAnnotationsValidator />
+
+                            <div class="eco--newsletter--1">
+                                <div class="eco--inner">
+                                    <InputText placeholder="ФИО"
+                                               @bind-Value="request.FullName" />
+                                    <ValidationMessage For="() => request.FullName" />
+
+                                </div>
+                            </div>
+
+                            <div class="eco--newsletter--1">
+                                <div class="eco--inner">
+                                    <InputText placeholder="Email"
+                                               @bind-Value="request.Email" />
+                                    <ValidationMessage For="() => request.Email" />
+                                </div>
+                            </div>
+
+                            <div class="eco--newsletter--1">
+                                <div class="eco--inner">
+                                    <InputText placeholder="Номер телефона"
+                                               @bind-Value="request.PhoneNumber" />
+                                    <ValidationMessage For="() => request.PhoneNumber" />
+                                </div>
+
+                                <button class="from-button">Subscribe Now &nbsp; <i class="fa fa-spinner fa-pulse hidden submitSpinner"></i></button>
+                                <p>@requestMessage</p>
+                            </div>
+                            <span class="eco--btm--txt"><i class="fa fa-lock"></i> &nbsp; Мы никогда не передаем ваши личные данные третьим лицам.</span>
+                        </EditForm>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="eco--footer eco--pd--100">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-3">
+                        <div class="widget footer_widget">
+                            <div class="eco--inner">
+                                <p>Администрация обязуется предоставить рабочее место, пока общее количество участников не превысит 20 чел. <br> Участники зарегистрированные после достижения данного числа, смогут учавствовать на мероприятии, только за личными устройствами.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-3">
+                        <div class="widget footer_widget">
+                            <div class="eco--inner">
+                                <h4>Документы</h4>
+                                <ul>
+                                    <li><a href="#">Положение мероприятия</a></li>
+                                    <li><a href="#">Пример задания</a></li>
+                                    <li><a href="#">Техническое оснащение</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-3">
+                        <div class="widget footer_widget">
+                            <div class="eco--inner">
+                                <h4>Контакты</h4>
+                                <ul>
+                                    <li>TG: <a href="https://t.me/ArthyrGabitov">ArthyrGabitov</a></li>
+                                    <li>Email: <a href="mailto: GabitovAR@corp.knrtu.ru">GabitovAR@corp.knrtu.ru</a></li>
+                                    <li>Деловая 15, Казань, Россия 2024</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="js/jquery.min.js"></script>
+<script src="js/vendor/bootstrap.min.js"></script>
+<script src="js/vendor/slick.min.js"></script>
+<script src="js/vendor/magnific.popup.min.js"></script>
+<script src="js/vendor/ajaxchimp.min.js"></script>
+<script src="js/vendor/sweet.alert.min.js"></script>
+<script src="js/vendor/particle.min.js"></script>
+<script src="js/particle.config.js"></script>
+<script src="js/vendor/slicknav.min.js"></script>
+<script src="js/active.js"></script>
+<script src="_framework/blazor.webassembly.js"></script>
+
+@code {
+    private PlayerRequest request = new();
+
+    [Inject] private HttpClient? HttpClient { get; set; }
+
+    private string? requestMessage;
+
+    private async Task PlayerRegisterAsync()
+    {
+
+        try
+        {
+            var response = await HttpClient.PostAsJsonAsync("Players/addPlayer", request);
+
+            if (response.IsSuccessStatusCode)
+            {
+                requestMessage = "Вы успешно подали заявку";
+                return;
+            }
+
+            requestMessage = await response.Content.ReadAsStringAsync();
+            return;
+        }
+        catch (Exception e)
+        {
+            requestMessage = $"{e.Message}";
+        }
+    }
+}

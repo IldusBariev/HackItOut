@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "HuckItOut.API.Controllers.Players",
+    "Method": "AddPlayerAsync",
+    "RelativePath": "Players/addPlayer",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "HuckItOut.API.Request.PlayerRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HuckItOut.API.Controllers.Players",
+    "Method": "AllPlayersAsync",
+    "RelativePath": "Players/allPlayers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

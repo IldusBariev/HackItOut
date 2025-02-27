@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0414\u0438\u043B\u044F\u0440\u0430\\Desktop\\VS\\HackItOut\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E79980FC-1C27-47DB-916D-D231675388E5}|HuckItOut.API\\HuckItOut.API.csproj|c:\\users\\\u0434\u0438\u043B\u044F\u0440\u0430\\desktop\\vs\\hackitout\\huckitout.api\\controllers\\players.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E79980FC-1C27-47DB-916D-D231675388E5}|HuckItOut.API\\HuckItOut.API.csproj|solutionrelative:huckitout.api\\controllers\\players.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E79980FC-1C27-47DB-916D-D231675388E5}|HuckItOut.API\\HuckItOut.API.csproj|c:\\users\\\u0434\u0438\u043B\u044F\u0440\u0430\\desktop\\vs\\hackitout\\huckitout.api\\entities\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E79980FC-1C27-47DB-916D-D231675388E5}|HuckItOut.API\\HuckItOut.API.csproj|solutionrelative:huckitout.api\\entities\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E79980FC-1C27-47DB-916D-D231675388E5}|HuckItOut.API\\HuckItOut.API.csproj|c:\\users\\\u0434\u0438\u043B\u044F\u0440\u0430\\desktop\\vs\\hackitout\\huckitout.api\\dbcontexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E79980FC-1C27-47DB-916D-D231675388E5}|HuckItOut.API\\HuckItOut.API.csproj|solutionrelative:huckitout.api\\dbcontexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C22017-1015-4832-AF03-4EA5A79B179E}|HackItOut.UI\\HackItOut.UI.csproj|c:\\users\\\u0434\u0438\u043B\u044F\u0440\u0430\\desktop\\vs\\hackitout\\hackitout.ui\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01C22017-1015-4832-AF03-4EA5A79B179E}|HackItOut.UI\\HackItOut.UI.csproj|solutionrelative:hackitout.ui\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0438\u043B\u044F\u0440\u0430\\Desktop\\VS\\HackItOut\\HuckItOut.API\\DbContexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "HuckItOut.API\\DbContexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0438\u043B\u044F\u0440\u0430\\Desktop\\VS\\HackItOut\\HuckItOut.API\\DbContexts\\AppDbContext.cs",
+              "RelativeToolTip": "HuckItOut.API\\DbContexts\\AppDbContext.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAzwCoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T04:29:12.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0438\u043B\u044F\u0440\u0430\\Desktop\\VS\\HackItOut\\HackItOut.UI\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "HackItOut.UI\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\\u0414\u0438\u043B\u044F\u0440\u0430\\Desktop\\VS\\HackItOut\\HackItOut.UI\\Pages\\Home.razor",
+              "RelativeToolTip": "HackItOut.UI\\Pages\\Home.razor",
+              "ViewState": "AgIAAPAAAAAAAAAAAAAcwAABAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-26T16:30:29.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Players.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0438\u043B\u044F\u0440\u0430\\Desktop\\VS\\HackItOut\\HuckItOut.API\\Controllers\\Players.cs",
+              "RelativeDocumentMoniker": "HuckItOut.API\\Controllers\\Players.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0438\u043B\u044F\u0440\u0430\\Desktop\\VS\\HackItOut\\HuckItOut.API\\Controllers\\Players.cs",
+              "RelativeToolTip": "HuckItOut.API\\Controllers\\Players.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwCYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T03:58:15.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0438\u043B\u044F\u0440\u0430\\Desktop\\VS\\HackItOut\\HuckItOut.API\\Entities\\Player.cs",
+              "RelativeDocumentMoniker": "HuckItOut.API\\Entities\\Player.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0438\u043B\u044F\u0440\u0430\\Desktop\\VS\\HackItOut\\HuckItOut.API\\Entities\\Player.cs",
+              "RelativeToolTip": "HuckItOut.API\\Entities\\Player.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA2wBwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T04:27:46.631Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
