@@ -112,3 +112,4 @@ C:\Users\Диляра\Desktop\VS\HackItOut\HuckItOut.API\obj\Debug\net8.0\HuckIt
 C:\Users\Диляра\Desktop\VS\HackItOut\HuckItOut.API\obj\Debug\net8.0\HuckItOut.API.genruntimeconfig.cache
 C:\Users\Диляра\Desktop\VS\HackItOut\HuckItOut.API\obj\Debug\net8.0\ref\HuckItOut.API.dll
 C:\Users\Диляра\Desktop\VS\HackItOut\HuckItOut.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Диляра\Desktop\VS\HackItOut\HuckItOut.API\obj\Debug\net8.0\HuckItOut.API.sourcelink.json

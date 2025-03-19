@@ -36,7 +36,19 @@
         }
       }
     },
-    "/Players/allPlayers": {
+    "/Players/position": {
+      "get": {
+        "tags": [
+          "Players"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/Players/task": {
       "get": {
         "tags": [
           "Players"

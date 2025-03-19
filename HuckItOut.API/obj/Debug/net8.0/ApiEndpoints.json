@@ -17,8 +17,18 @@
   },
   {
     "ContainingType": "HuckItOut.API.Controllers.Players",
-    "Method": "AllPlayersAsync",
-    "RelativePath": "Players/allPlayers",
+    "Method": "GetPosition",
+    "RelativePath": "Players/position",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HuckItOut.API.Controllers.Players",
+    "Method": "GetTask",
+    "RelativePath": "Players/task",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,

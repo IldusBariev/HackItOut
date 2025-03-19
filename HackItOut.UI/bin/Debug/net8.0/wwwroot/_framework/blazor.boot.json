@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "HackItOut.UI",
   "resources": {
-    "hash": "sha256-prQtKynyEwXPJeMRzqhK9jc6vsrAACV+YgbCu1Iu6SQ=",
+    "hash": "sha256-aWHcHwiIBqY2sBlJD7YFqZWu+rs1oS8E0toPhwkjPBU=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-VdKq87/z5NIxZKmuM+fv38XF+RcEb/bg3jVBwQSfwP4="
     },
@@ -209,10 +209,10 @@
       "mscorlib.wasm": "sha256-04e4k5XU8HWGB/dq/2+j84xzzGPflTs0IYWI0OxogVc=",
       "netstandard.wasm": "sha256-gnGZURPnoSmjXuYNCOJi5tt8qn2LRImWgue1Ru3/TDQ=",
       "System.Private.CoreLib.wasm": "sha256-6w3jYr0arcp8jnt4aeqh+AmqrLA6q7jl9rQYAwLzE0M=",
-      "HackItOut.UI.wasm": "sha256-glzOuACnUHnhIdnmJfYcfxj9cChvjT3bt8xauGbf7wU="
+      "HackItOut.UI.wasm": "sha256-4/XtbhbUnxZIFMp21Xf6fwcGP/KimNkyO3+Vh0P2jzQ="
     },
     "pdb": {
-      "HackItOut.UI.pdb": "sha256-g4DKddOjuXvaztTAbtZFuW2sQdTnc0TF0rMNj7RgOug="
+      "HackItOut.UI.pdb": "sha256-tNBJsW2+Waj/lGRIZMUTU/uHTlybefi4y7K7qjhER10="
     }
   },
   "cacheBootResources": true,

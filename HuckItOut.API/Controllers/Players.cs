@@ -55,12 +55,46 @@ namespace HuckItOut.API.Controllers
             return Created();
         }
 
-        [HttpGet("allPlayers")]
-        public async Task<IActionResult> AllPlayersAsync ()
-        {
-            var allPlayer = await _dbContext.Players.ToListAsync();
+        //[HttpGet("allPlayers")]
+        //public async Task<IActionResult> AllPlayersAsync ()
+        //{
+        //    var allPlayer = await _dbContext.Players.ToListAsync();
 
-            return Ok(allPlayer);
+        //    return Ok(allPlayer);
+        //}
+
+        [HttpGet("position")]
+        public IActionResult GetPosition()
+        {
+            // Путь к файлу на сервере
+            var filePath = Path.Combine(Directory.GetCurrentDirectory(), "static/files", "position.docx");
+
+            // Проверяем, существует ли файл
+            if (!System.IO.File.Exists(filePath))
+            {
+                return NotFound("Файл не найден");
+            }
+
+            // Возвращаем файл для скачивания
+            var fileStream = System.IO.File.OpenRead(filePath);
+            return File(fileStream, "application/vnd.openxmlformats-officedocument.wordprocessingml.document", "filename.docx");
+        }
+        
+        [HttpGet("task")]
+        public IActionResult GetTask()
+        {
+            // Путь к файлу на сервере
+            var filePath = Path.Combine(Directory.GetCurrentDirectory(), "static/files", "position.docx");
+
+            // Проверяем, существует ли файл
+            if (!System.IO.File.Exists(filePath))
+            {
+                return NotFound("Файл не найден");
+            }
+
+            // Возвращаем файл для скачивания
+            var fileStream = System.IO.File.OpenRead(filePath);
+            return File(fileStream, "application/vnd.openxmlformats-officedocument.wordprocessingml.document", "filename.docx");
         }
 
     }

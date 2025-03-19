@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "AAzBOG8/5FWnKd921kqn1VV16hESAeihwn9XxiLNhXk=",
+  "Hash": "RZR8sTzDFSF1Cv9vrMid5mGR7BPQHqMtxJtLdPnfd28=",
   "Source": "HackItOut.UI",
   "BasePath": "/",
   "Mode": "Root",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "l9zaw574zo",
-      "Integrity": "CZW20IeVtgUxxCepUqhZyFnsTJHvSGlnWTAztSfhZ2I=",
+      "Fingerprint": "c2abkemh1g",
+      "Integrity": "tDNczUnsLPR+fOuL83REA6SgF7x9fGxoagOhTMZMbFY=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net8.0\\blazor.boot.json"
@@ -220,8 +220,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "t0affgzv3d",
-      "Integrity": "g4DKddOjuXvaztTAbtZFuW2sQdTnc0TF0rMNj7RgOug=",
+      "Fingerprint": "swzytm7yyf",
+      "Integrity": "tNBJsW2+Waj/lGRIZMUTU/uHTlybefi4y7K7qjhER10=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net8.0\\HackItOut.UI.pdb"
@@ -241,8 +241,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "e4y7j2ccw4",
-      "Integrity": "glzOuACnUHnhIdnmJfYcfxj9cChvjT3bt8xauGbf7wU=",
+      "Fingerprint": "7nqc0hk77y",
+      "Integrity": "4/XtbhbUnxZIFMp21Xf6fwcGP/KimNkyO3+Vh0P2jzQ=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\obj\\Debug\\net8.0\\webcil\\HackItOut.UI.wasm"
@@ -5015,7 +5015,7 @@
       "OriginalItemSpec": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Runtime.Extensions.wasm"
     },
     {
-      "Identity": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\obj\\Debug\\net8.0\\compressed\\6iisd2quds-t0affgzv3d.gz",
+      "Identity": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\obj\\Debug\\net8.0\\compressed\\6iisd2quds-swzytm7yyf.gz",
       "SourceId": "HackItOut.UI",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\obj\\Debug\\net8.0\\compressed\\",
@@ -5029,8 +5029,8 @@
       "RelatedAsset": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\HackItOut.UI.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "su6giwlcou",
-      "Integrity": "TFdLF5Vv5PWPOKNFizhb8BKXyhi+GZnMz9ITPaf2rjM=",
+      "Fingerprint": "vg7j9q66jc",
+      "Integrity": "cSI0CqLIiOWZN1UnvZUUg0olzhgxNU/T18pRbpXUSgc=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\HackItOut.UI.pdb"
@@ -6170,7 +6170,7 @@
       "OriginalItemSpec": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Threading.Tasks.Dataflow.wasm"
     },
     {
-      "Identity": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\obj\\Debug\\net8.0\\compressed\\f4yhl9gjit-e4y7j2ccw4.gz",
+      "Identity": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\obj\\Debug\\net8.0\\compressed\\f4yhl9gjit-7nqc0hk77y.gz",
       "SourceId": "HackItOut.UI",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\obj\\Debug\\net8.0\\compressed\\",
@@ -6184,8 +6184,8 @@
       "RelatedAsset": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\HackItOut.UI.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "rzr0nouwhw",
-      "Integrity": "SbtV9YEVtHW5ENNolu9mqO9LT3h1Aerr8BEuegboR78=",
+      "Fingerprint": "qz9s1gwtuu",
+      "Integrity": "ar3y6PxLANL0KIdLUFEdpP7MQq0xUJqR54MM5PFaYzo=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\HackItOut.UI.wasm"
@@ -6674,7 +6674,7 @@
       "OriginalItemSpec": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.Abstractions.wasm"
     },
     {
-      "Identity": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\obj\\Debug\\net8.0\\compressed\\ikanuuve4q-l9zaw574zo.gz",
+      "Identity": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\obj\\Debug\\net8.0\\compressed\\ikanuuve4q-c2abkemh1g.gz",
       "SourceId": "HackItOut.UI",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\obj\\Debug\\net8.0\\compressed\\",
@@ -6688,8 +6688,8 @@
       "RelatedAsset": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "9l2oqpovg1",
-      "Integrity": "HcHsFaHI3/Quu+tt+hWCoCGUq/DYMt2Y8gS0GkWQjzw=",
+      "Fingerprint": "6nopyj97an",
+      "Integrity": "/thaZifRMgqQUJtC7/kZ+RtPZDWnq4rtpHbo1jINEOw=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -10642,11 +10642,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"CZW20IeVtgUxxCepUqhZyFnsTJHvSGlnWTAztSfhZ2I=\""
+          "Value": "\"tDNczUnsLPR+fOuL83REA6SgF7x9fGxoagOhTMZMbFY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Feb 2025 04:17:36 GMT"
+          "Value": "Wed, 19 Mar 2025 18:00:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10656,18 +10656,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-CZW20IeVtgUxxCepUqhZyFnsTJHvSGlnWTAztSfhZ2I="
+          "Value": "sha256-tDNczUnsLPR+fOuL83REA6SgF7x9fGxoagOhTMZMbFY="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\obj\\Debug\\net8.0\\compressed\\ikanuuve4q-l9zaw574zo.gz",
+      "AssetFile": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\obj\\Debug\\net8.0\\compressed\\ikanuuve4q-c2abkemh1g.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000112917796"
+          "Quality": "0.000112879558"
         }
       ],
       "ResponseHeaders": [
@@ -10677,15 +10677,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8855"
+          "Value": "8858"
         },
         {
           "Name": "ETag",
-          "Value": "\"HcHsFaHI3/Quu+tt+hWCoCGUq/DYMt2Y8gS0GkWQjzw=\""
+          "Value": "\"/thaZifRMgqQUJtC7/kZ+RtPZDWnq4rtpHbo1jINEOw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Feb 2025 04:12:42 GMT"
+          "Value": "Wed, 19 Mar 2025 17:56:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10705,19 +10705,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"CZW20IeVtgUxxCepUqhZyFnsTJHvSGlnWTAztSfhZ2I=\""
+          "Value": "W/\"tDNczUnsLPR+fOuL83REA6SgF7x9fGxoagOhTMZMbFY=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-CZW20IeVtgUxxCepUqhZyFnsTJHvSGlnWTAztSfhZ2I="
+          "Value": "sha256-tDNczUnsLPR+fOuL83REA6SgF7x9fGxoagOhTMZMbFY="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\obj\\Debug\\net8.0\\compressed\\ikanuuve4q-l9zaw574zo.gz",
+      "AssetFile": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\obj\\Debug\\net8.0\\compressed\\ikanuuve4q-c2abkemh1g.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10726,7 +10726,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8855"
+          "Value": "8858"
         },
         {
           "Name": "Content-Type",
@@ -10734,11 +10734,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"HcHsFaHI3/Quu+tt+hWCoCGUq/DYMt2Y8gS0GkWQjzw=\""
+          "Value": "\"/thaZifRMgqQUJtC7/kZ+RtPZDWnq4rtpHbo1jINEOw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Feb 2025 04:12:42 GMT"
+          "Value": "Wed, 19 Mar 2025 17:56:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10756,7 +10756,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-HcHsFaHI3/Quu+tt+hWCoCGUq/DYMt2Y8gS0GkWQjzw="
+          "Value": "sha256-/thaZifRMgqQUJtC7/kZ+RtPZDWnq4rtpHbo1jINEOw="
         }
       ]
     },
@@ -11867,7 +11867,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "22320"
+          "Value": "22940"
         },
         {
           "Name": "Content-Type",
@@ -11875,11 +11875,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"g4DKddOjuXvaztTAbtZFuW2sQdTnc0TF0rMNj7RgOug=\""
+          "Value": "\"tNBJsW2+Waj/lGRIZMUTU/uHTlybefi4y7K7qjhER10=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Feb 2025 04:17:35 GMT"
+          "Value": "Wed, 19 Mar 2025 18:00:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11889,18 +11889,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-g4DKddOjuXvaztTAbtZFuW2sQdTnc0TF0rMNj7RgOug="
+          "Value": "sha256-tNBJsW2+Waj/lGRIZMUTU/uHTlybefi4y7K7qjhER10="
         }
       ]
     },
     {
       "Route": "_framework/HackItOut.UI.pdb",
-      "AssetFile": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\obj\\Debug\\net8.0\\compressed\\6iisd2quds-t0affgzv3d.gz",
+      "AssetFile": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\obj\\Debug\\net8.0\\compressed\\6iisd2quds-swzytm7yyf.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000062127237"
+          "Quality": "0.000060201072"
         }
       ],
       "ResponseHeaders": [
@@ -11910,15 +11910,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "16095"
+          "Value": "16610"
         },
         {
           "Name": "ETag",
-          "Value": "\"TFdLF5Vv5PWPOKNFizhb8BKXyhi+GZnMz9ITPaf2rjM=\""
+          "Value": "\"cSI0CqLIiOWZN1UnvZUUg0olzhgxNU/T18pRbpXUSgc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Feb 2025 04:12:40 GMT"
+          "Value": "Wed, 19 Mar 2025 17:56:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11938,19 +11938,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"g4DKddOjuXvaztTAbtZFuW2sQdTnc0TF0rMNj7RgOug=\""
+          "Value": "W/\"tNBJsW2+Waj/lGRIZMUTU/uHTlybefi4y7K7qjhER10=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-g4DKddOjuXvaztTAbtZFuW2sQdTnc0TF0rMNj7RgOug="
+          "Value": "sha256-tNBJsW2+Waj/lGRIZMUTU/uHTlybefi4y7K7qjhER10="
         }
       ]
     },
     {
       "Route": "_framework/HackItOut.UI.pdb.gz",
-      "AssetFile": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\obj\\Debug\\net8.0\\compressed\\6iisd2quds-t0affgzv3d.gz",
+      "AssetFile": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\obj\\Debug\\net8.0\\compressed\\6iisd2quds-swzytm7yyf.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11959,7 +11959,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "16095"
+          "Value": "16610"
         },
         {
           "Name": "Content-Type",
@@ -11967,11 +11967,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"TFdLF5Vv5PWPOKNFizhb8BKXyhi+GZnMz9ITPaf2rjM=\""
+          "Value": "\"cSI0CqLIiOWZN1UnvZUUg0olzhgxNU/T18pRbpXUSgc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Feb 2025 04:12:40 GMT"
+          "Value": "Wed, 19 Mar 2025 17:56:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11989,7 +11989,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-TFdLF5Vv5PWPOKNFizhb8BKXyhi+GZnMz9ITPaf2rjM="
+          "Value": "sha256-cSI0CqLIiOWZN1UnvZUUg0olzhgxNU/T18pRbpXUSgc="
         }
       ]
     },
@@ -12004,7 +12004,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "31509"
+          "Value": "32021"
         },
         {
           "Name": "Content-Type",
@@ -12012,11 +12012,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"glzOuACnUHnhIdnmJfYcfxj9cChvjT3bt8xauGbf7wU=\""
+          "Value": "\"4/XtbhbUnxZIFMp21Xf6fwcGP/KimNkyO3+Vh0P2jzQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Feb 2025 04:17:35 GMT"
+          "Value": "Wed, 19 Mar 2025 18:00:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12026,18 +12026,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-glzOuACnUHnhIdnmJfYcfxj9cChvjT3bt8xauGbf7wU="
+          "Value": "sha256-4/XtbhbUnxZIFMp21Xf6fwcGP/KimNkyO3+Vh0P2jzQ="
         }
       ]
     },
     {
       "Route": "_framework/HackItOut.UI.wasm",
-      "AssetFile": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\obj\\Debug\\net8.0\\compressed\\f4yhl9gjit-e4y7j2ccw4.gz",
+      "AssetFile": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\obj\\Debug\\net8.0\\compressed\\f4yhl9gjit-7nqc0hk77y.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000099265436"
+          "Quality": "0.000095283468"
         }
       ],
       "ResponseHeaders": [
@@ -12047,15 +12047,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "10073"
+          "Value": "10494"
         },
         {
           "Name": "ETag",
-          "Value": "\"SbtV9YEVtHW5ENNolu9mqO9LT3h1Aerr8BEuegboR78=\""
+          "Value": "\"ar3y6PxLANL0KIdLUFEdpP7MQq0xUJqR54MM5PFaYzo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Feb 2025 04:12:41 GMT"
+          "Value": "Wed, 19 Mar 2025 17:44:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12075,19 +12075,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"glzOuACnUHnhIdnmJfYcfxj9cChvjT3bt8xauGbf7wU=\""
+          "Value": "W/\"4/XtbhbUnxZIFMp21Xf6fwcGP/KimNkyO3+Vh0P2jzQ=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-glzOuACnUHnhIdnmJfYcfxj9cChvjT3bt8xauGbf7wU="
+          "Value": "sha256-4/XtbhbUnxZIFMp21Xf6fwcGP/KimNkyO3+Vh0P2jzQ="
         }
       ]
     },
     {
       "Route": "_framework/HackItOut.UI.wasm.gz",
-      "AssetFile": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\obj\\Debug\\net8.0\\compressed\\f4yhl9gjit-e4y7j2ccw4.gz",
+      "AssetFile": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\obj\\Debug\\net8.0\\compressed\\f4yhl9gjit-7nqc0hk77y.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12096,7 +12096,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "10073"
+          "Value": "10494"
         },
         {
           "Name": "Content-Type",
@@ -12104,11 +12104,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"SbtV9YEVtHW5ENNolu9mqO9LT3h1Aerr8BEuegboR78=\""
+          "Value": "\"ar3y6PxLANL0KIdLUFEdpP7MQq0xUJqR54MM5PFaYzo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Feb 2025 04:12:41 GMT"
+          "Value": "Wed, 19 Mar 2025 17:44:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12126,7 +12126,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-SbtV9YEVtHW5ENNolu9mqO9LT3h1Aerr8BEuegboR78="
+          "Value": "sha256-ar3y6PxLANL0KIdLUFEdpP7MQq0xUJqR54MM5PFaYzo="
         }
       ]
     },

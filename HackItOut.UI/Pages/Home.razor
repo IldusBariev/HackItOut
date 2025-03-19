@@ -152,14 +152,14 @@
 
                         @* Форма *@
                         <EditForm Model="request"
-                                  OnValidSubmit="PlayerRegisterAsync">
+                        OnValidSubmit="PlayerRegisterAsync">
 
                             <DataAnnotationsValidator />
 
                             <div class="eco--newsletter--1">
                                 <div class="eco--inner">
                                     <InputText placeholder="ФИО"
-                                               @bind-Value="request.FullName" />
+                                    @bind-Value="request.FullName" />
                                     <ValidationMessage For="() => request.FullName" />
 
                                 </div>
@@ -168,7 +168,7 @@
                             <div class="eco--newsletter--1">
                                 <div class="eco--inner">
                                     <InputText placeholder="Email"
-                                               @bind-Value="request.Email" />
+                                    @bind-Value="request.Email" />
                                     <ValidationMessage For="() => request.Email" />
                                 </div>
                             </div>
@@ -176,7 +176,7 @@
                             <div class="eco--newsletter--1">
                                 <div class="eco--inner">
                                     <InputText placeholder="Номер телефона"
-                                               @bind-Value="request.PhoneNumber" />
+                                    @bind-Value="request.PhoneNumber" />
                                     <ValidationMessage For="() => request.PhoneNumber" />
                                 </div>
 
@@ -205,8 +205,8 @@
                             <div class="eco--inner">
                                 <h4>Документы</h4>
                                 <ul>
-                                    <li><a href="#">Положение мероприятия</a></li>
-                                    <li><a href="#">Пример задания</a></li>
+                                    <li><a href="@GetPositionLink()" download="Положение_Хакатон_2024_КТК">Положение мероприятия</a></li>
+                                    <li><a href="@GetTasksLink()" download="Пример_Заданий">Пример задания</a></li>
                                     <li><a href="#">Техническое оснащение</a></li>
                                 </ul>
                             </div>
@@ -245,9 +245,20 @@
 @code {
     private PlayerRequest request = new();
 
+    [Inject] private NavigationManager NavigationManager { get; set; }
     [Inject] private HttpClient? HttpClient { get; set; }
 
     private string? requestMessage;
+
+    private string GetPositionLink()
+    {
+        return "http://localhost:5122/Players/position";
+    }
+
+    private string GetTasksLink()
+    {
+        return "http://localhost:5122/Players/task";
+    }
 
     private async Task PlayerRegisterAsync()
     {
