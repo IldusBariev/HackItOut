@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HackItOut.UI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6080f9a2c4bc05698a1dd3d97d30ce686b4316ad")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+681d1bc47114c08de870a3ec876861698840819a")]
 [assembly: System.Reflection.AssemblyProductAttribute("HackItOut.UI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HackItOut.UI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
