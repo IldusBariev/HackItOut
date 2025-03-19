@@ -1,0 +1,409 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\bin\\Release\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\css\\animate.css",
+      "PackagePath": "staticwebassets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\css\\magnific.pupup.css",
+      "PackagePath": "staticwebassets\\css\\magnific.pupup.css"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\css\\main.css.map",
+      "PackagePath": "staticwebassets\\css\\main.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\css\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\css\\slick.min.css",
+      "PackagePath": "staticwebassets\\css\\slick.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\css\\slicknav.css",
+      "PackagePath": "staticwebassets\\css\\slicknav.css"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\css\\sweet.alert.css",
+      "PackagePath": "staticwebassets\\css\\sweet.alert.css"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\img\\brand-1.jpg",
+      "PackagePath": "staticwebassets\\img\\brand-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\img\\brand-2.jpg",
+      "PackagePath": "staticwebassets\\img\\brand-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\img\\brand-3.jpg",
+      "PackagePath": "staticwebassets\\img\\brand-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\img\\brand-4.jpg",
+      "PackagePath": "staticwebassets\\img\\brand-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\img\\brand-5.jpg",
+      "PackagePath": "staticwebassets\\img\\brand-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\img\\ext\\._arrow-down.png",
+      "PackagePath": "staticwebassets\\img\\ext\\._arrow-down.png"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\img\\ext\\._pattern-01.png",
+      "PackagePath": "staticwebassets\\img\\ext\\._pattern-01.png"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\img\\ext\\._pattern-02.png",
+      "PackagePath": "staticwebassets\\img\\ext\\._pattern-02.png"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\img\\ext\\arrow-down.png",
+      "PackagePath": "staticwebassets\\img\\ext\\arrow-down.png"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\img\\ext\\pattern-01.png",
+      "PackagePath": "staticwebassets\\img\\ext\\pattern-01.png"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\img\\ext\\pattern-02.png",
+      "PackagePath": "staticwebassets\\img\\ext\\pattern-02.png"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\img\\hero-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\hero-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\img\\item-01.jpg",
+      "PackagePath": "staticwebassets\\img\\item-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\img\\item-02.png",
+      "PackagePath": "staticwebassets\\img\\item-02.png"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\img\\item-03.jpg",
+      "PackagePath": "staticwebassets\\img\\item-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\img\\item-04.jpg",
+      "PackagePath": "staticwebassets\\img\\item-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\img\\item-04.png",
+      "PackagePath": "staticwebassets\\img\\item-04.png"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\img\\item-05.jpg",
+      "PackagePath": "staticwebassets\\img\\item-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\img\\item-06.jpg",
+      "PackagePath": "staticwebassets\\img\\item-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\img\\item-07.jpg",
+      "PackagePath": "staticwebassets\\img\\item-07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\img\\preview-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\preview-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\img\\pricing-1.jpg",
+      "PackagePath": "staticwebassets\\img\\pricing-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\img\\pricing-2.jpg",
+      "PackagePath": "staticwebassets\\img\\pricing-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\img\\pricing-3.jpg",
+      "PackagePath": "staticwebassets\\img\\pricing-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\img\\pricing-4.jpg",
+      "PackagePath": "staticwebassets\\img\\pricing-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\img\\review-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\review-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\img\\video-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\video-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\js\\active.js",
+      "PackagePath": "staticwebassets\\js\\active.js"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\js\\particle.config.js",
+      "PackagePath": "staticwebassets\\js\\particle.config.js"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\js\\vendor\\ajaxchimp.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\ajaxchimp.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\js\\vendor\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\js\\vendor\\magicline.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\magicline.js"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\js\\vendor\\magnific.popup.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\magnific.popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\js\\vendor\\masonry.pkgd.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\masonry.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\js\\vendor\\nice.select.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\nice.select.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\js\\vendor\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\js\\vendor\\particle.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\particle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\js\\vendor\\slick.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\slick.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\js\\vendor\\slicknav.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\slicknav.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\js\\vendor\\sweet.alert.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\sweet.alert.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\js\\vendor\\wow.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\wow.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\preview\\._01.jpg",
+      "PackagePath": "staticwebassets\\preview\\._01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\preview\\._02.jpg",
+      "PackagePath": "staticwebassets\\preview\\._02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\preview\\._03.jpg",
+      "PackagePath": "staticwebassets\\preview\\._03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\preview\\._04.jpg",
+      "PackagePath": "staticwebassets\\preview\\._04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\preview\\._05.jpg",
+      "PackagePath": "staticwebassets\\preview\\._05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\preview\\._06.jpg",
+      "PackagePath": "staticwebassets\\preview\\._06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\preview\\._99.jpg",
+      "PackagePath": "staticwebassets\\preview\\._99.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\preview\\01.jpg",
+      "PackagePath": "staticwebassets\\preview\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\preview\\02.jpg",
+      "PackagePath": "staticwebassets\\preview\\02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\preview\\03.jpg",
+      "PackagePath": "staticwebassets\\preview\\03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\preview\\04.jpg",
+      "PackagePath": "staticwebassets\\preview\\04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\preview\\05.jpg",
+      "PackagePath": "staticwebassets\\preview\\05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\preview\\06.jpg",
+      "PackagePath": "staticwebassets\\preview\\06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\preview\\99.jpg",
+      "PackagePath": "staticwebassets\\preview\\99.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\sass\\_class.sass",
+      "PackagePath": "staticwebassets\\sass\\_class.sass"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\sass\\_color.sass",
+      "PackagePath": "staticwebassets\\sass\\_color.sass"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\sass\\_common.sass",
+      "PackagePath": "staticwebassets\\sass\\_common.sass"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\sass\\_config.sass",
+      "PackagePath": "staticwebassets\\sass\\_config.sass"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\sass\\_effect.sass",
+      "PackagePath": "staticwebassets\\sass\\_effect.sass"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\sass\\_extra.sass",
+      "PackagePath": "staticwebassets\\sass\\_extra.sass"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\sass\\_index.sass",
+      "PackagePath": "staticwebassets\\sass\\_index.sass"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\sass\\_main.sass",
+      "PackagePath": "staticwebassets\\sass\\_main.sass"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\sass\\_menu.sass",
+      "PackagePath": "staticwebassets\\sass\\_menu.sass"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\sass\\_mixin.sass",
+      "PackagePath": "staticwebassets\\sass\\_mixin.sass"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\sass\\_preloader.sass",
+      "PackagePath": "staticwebassets\\sass\\_preloader.sass"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\sass\\_reset.sass",
+      "PackagePath": "staticwebassets\\sass\\_reset.sass"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\sass\\_rtl.sass",
+      "PackagePath": "staticwebassets\\sass\\_rtl.sass"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\sass\\style.sass",
+      "PackagePath": "staticwebassets\\sass\\style.sass"
+    },
+    {
+      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\HackItOut\\HackItOut.UI\\wwwroot\\style.css",
+      "PackagePath": "staticwebassets\\style.css"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.HackItOut.UI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.HackItOut.UI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.HackItOut.UI.props",
+      "PackagePath": "build\\HackItOut.UI.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.HackItOut.UI.props",
+      "PackagePath": "buildMultiTargeting\\HackItOut.UI.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.HackItOut.UI.props",
+      "PackagePath": "buildTransitive\\HackItOut.UI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1032,6 +1032,6 @@ C:\Users\Диляра\Desktop\VS\HackItOut\HackItOut.UI\obj\Debug\net8.0\refint\
 C:\Users\Диляра\Desktop\VS\HackItOut\HackItOut.UI\obj\Debug\net8.0\HackItOut.UI.pdb
 C:\Users\Диляра\Desktop\VS\HackItOut\HackItOut.UI\obj\Debug\net8.0\ref\HackItOut.UI.dll
 C:\Users\Диляра\Desktop\VS\HackItOut\HackItOut.UI\obj\Debug\net8.0\HackItOut.UI.sourcelink.json
-C:\Users\Диляра\Desktop\VS\HackItOut\HackItOut.UI\obj\Debug\net8.0\compressed\f4yhl9gjit-59kisuylnu.gz
-C:\Users\Диляра\Desktop\VS\HackItOut\HackItOut.UI\obj\Debug\net8.0\compressed\6iisd2quds-3bkfxnlvxe.gz
-C:\Users\Диляра\Desktop\VS\HackItOut\HackItOut.UI\obj\Debug\net8.0\compressed\ikanuuve4q-xvg68jraia.gz
+C:\Users\Диляра\Desktop\VS\HackItOut\HackItOut.UI\obj\Debug\net8.0\compressed\f4yhl9gjit-q6nduzbpc5.gz
+C:\Users\Диляра\Desktop\VS\HackItOut\HackItOut.UI\obj\Debug\net8.0\compressed\6iisd2quds-zgd838defi.gz
+C:\Users\Диляра\Desktop\VS\HackItOut\HackItOut.UI\obj\Debug\net8.0\compressed\ikanuuve4q-gpey0oenif.gz
